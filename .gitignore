@@ -1,0 +1,17 @@
+# Parcel build cache (useless to commit)
+.parcel-cache/
+
+# System & dependencies
+node_modules/
+dist/
+build/
+
+# Env files
+.env
+
+# Logs
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
